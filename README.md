@@ -72,18 +72,32 @@ There is one <span style="color:rgb(255, 188, 112)">special enchantment</span>: 
 <span style="color:rgb(255, 188, 112)">Swing</span> changes the <span style="color:rgb(255, 188, 112)">throw</span> to a spinning attack that hits all entities around the player.
 
 ##### ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/raindance.png)
+
 <span style="color:rgb(20, 189, 138)">Hammer Variants</span> can also be used to <span style="color:rgb(255, 188, 112)">change the weather</span>, by <span style="color:rgb(255, 188, 112)">striking a lightning rod exposed to air above a conduit</span>.
+
 ###### ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_royal_anchor_from_normal.png)
+
 The <span style="color:rgb(20, 189, 138)">Royal Hammer</span> changes the weather to <span style="color:rgb(255, 188, 112)">clear skies</span>. The <span style="color:rgb(255, 188, 112)">pearl</span> is obtained by waiting for <span style="color:rgb(255, 188, 112)">giant clams</span> to open.
+
 ###### ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_coral_anchor_from_normal.png)
+
 The <span style="color:rgb(20, 189, 138)">Coral Hammer</span> changes the weather to <span style="color:rgb(255, 188, 112)">rainy skies</span>. The <span style="color:rgb(255, 188, 112)">bubble pearl</span> is obtained by <span style="color:rgb(255, 188, 112)">killing coral endermen</span>.
+
 ###### ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_ruby_anchor_from_normal.png)
+
 The <span style="color:rgb(20, 189, 138)">Ruby Hammer</span> changes the weather to <span style="color:rgb(255, 188, 112)">stormy</span>. The <span style="color:rgb(255, 188, 112)">black pearl</span> is obtained by waiting for <span style="color:rgb(255, 188, 112)">giant clams</span> to open, and the <span style="color:rgb(255, 188, 112)">red mesoglea</span> can be obtained in <span style="color:rgb(255, 188, 112)">red jellyfish caves</span>.
+
+###### ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_ebonite_anchor_from_normal.png) ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/raindance_mining_fatigue.png)
+
+The <span style="color:rgb(20, 189, 138)">Ebonite Hammer</span> can be used on a <span style="color:rgb(255, 188, 112)">conduit with obsidian below</span> to give <span style="color:rgb(255, 188, 112)">mining fatigue</span> to all players <span style="color:rgb(255, 188, 112)">within 32 blocks</span> who are <span style="color:rgb(255, 188, 112)">outside the water</span>.
+
 ###### ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_normal_from_royal.png)
 
 ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_normal_from_coral.png)
 
 ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_normal_from_ruby.png)
+
+![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/anchors/sea_weapons_normal_from_ebonite.png)
 
 The <span style="color:rgb(20, 189, 138)">Normal Hammer</span> can also be obtained from any <span style="color:rgb(20, 189, 138)">Hammer Variant</span>.
 #### ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/longswords/sea_weapons_nautilus_longsword.png) ![](https://github.com/aliign/Skies-Seas-Sulfurs/blob/main/recipes/Seas/longswords/sea_weapons_abyssal_longsword.png)
